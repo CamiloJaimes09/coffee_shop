@@ -1,0 +1,2 @@
+#Dependencias que usamos en desarrollo
+ipython==8.12.3
